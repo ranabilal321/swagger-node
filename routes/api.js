@@ -1,6 +1,5 @@
 const router = require('express').Router();
 
-//const ApiDocsController = require('../controllers/ApiDocsController');
 const IceCreamController = require('../controllers/IceCreamController');
 const CookieController = require('../controllers/CookieController');
 

@@ -12,5 +12,5 @@ $ cd swagger-node
 $ npm install
 $ npm start
 ```
-### Browse
-- http://localhost:3000/api-docs
+### Browse local
+- localhost:{PORT}/api-docs
